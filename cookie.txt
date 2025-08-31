@@ -1,0 +1,26 @@
+[
+    {
+        "domain": ".futurenation.gov.bd",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "oidc:login:status",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".futurenation.gov.bd",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "fn:visitor:count",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    }
+]
